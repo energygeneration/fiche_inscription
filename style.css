@@ -1,0 +1,28 @@
+.paragraphe{
+
+    font-size:3rem;
+    margin-left:10% ;
+}
+.phone{
+    margin-bottom: 20px;
+}
+.mail{
+margin-bottom: 20px;
+}
+.formulaire{
+margin-left:40%;
+margin-top: 15%;
+}
+input{
+    width: 300px;
+}
+.mail input{
+    margin-left: 29px;
+}
+button{
+    margin-left: 34%;
+    height: 30px;
+    width:100px;
+    background-color: black;
+    color:white;
+}
